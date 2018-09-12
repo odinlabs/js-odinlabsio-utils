@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/odinlabs/js-odinlabsio-utils/issues"
   },
-  "homepage": "https://github.com/odinlabs/js-odinlabsio-utils#readme"
+  "homepage": "https://github.com/odinlabs/js-odinlabsio-utils#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "path": "^0.12.7",
+    "winston": "^3.0.0"
+  }
 }
